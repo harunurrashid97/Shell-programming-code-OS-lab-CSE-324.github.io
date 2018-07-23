@@ -1,0 +1,8 @@
+echo  "Enter base of a triangle : "
+read b
+ 
+echo  "Enter height of a triangle : "
+read h
+# calculate it and display back
+area=$(echo "scale=2;(1/2) * $b * $h"|bc)
+echo "Area of a triangle is $area"
