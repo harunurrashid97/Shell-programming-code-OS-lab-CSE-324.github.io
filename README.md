@@ -4,8 +4,12 @@ This is Our CSE programming Course.I am try to help of my friends for this cours
 1.Firstly go Terminal <b> -Ctrl+Alt+T </b>
 <p>2.Secondly selcet directory where you save program file.So,write one command on terminal.</p>
 Such as <b> cd Desktop </b>.
-<p>3.Thirdly make program file.So write one command on terminal.Such as <b> nano file name </b> see below the ![screenshot(https://github.com/harunshimanto/Shell-programming-code-OS-lab-CSE-324/blob/master/Screenshot%20from%202018-07-23%2022-38-18.png) for this command how to work.</p>
-<p>4.Fourthly write code on this programe file.</p>Such as,one ![Screenshot](https://github.com/harunshimanto/Shell-programming-code-OS-lab-CSE-324/blob/master/Screenshot%20from%202018-07-23%2023-13-07.png) below in here.
+<p>3.Thirdly make program file.So write one command on terminal.Such as <b> nano file name </b> see below the Screenshot for this command how to work.</p>
+[Screenshot](https://i.imgur.com/pDfcxDg.png)
+<p>4.Fourthly write code on this programe file.</p>Such as,one Screenshot below in here.
+[Screenshot](https://i.imgur.com/hKEXCCW.png)
 <p>5.Then <b> Ctrl+d </b> press for save this file.</p>
-<p>6.Then give permission for run this programe file.so we write one command in terminal for permission.<b>chomd 764 file name </b></p>.Below the ![screenshot.](https://github.com/harunshimanto/Shell-programming-code-OS-lab-CSE-324/blob/master/Screenshot%20from%202018-07-23%2022-38-18.png)
-<p>7.Finally write one command for run the code.<b> ./file name </b></p> Below the ![screenshot.](https://github.com/harunshimanto/Shell-programming-code-OS-lab-CSE-324/blob/master/Screenshot%20from%202018-07-23%2022-38-18.png)
+<p>6.Then give permission for run this programe file.so we write one command in terminal for permission.<b>chomd 764 file name </b></p>.Below the Screenshot.
+[Screenshot](https://i.imgur.com/pDfcxDg.png)
+<p>7.Finally write one command for run the code.<b> ./file name </b></p> Below the Screenshot.
+[Screenshot](https://i.imgur.com/hKEXCCW.png)
