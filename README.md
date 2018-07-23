@@ -12,4 +12,4 @@ Such as <b> cd Desktop </b>.
 <p>6.Then give permission for run this programe file.so we write one command in terminal for permission.<b>chomd 764 file name </b>.Below the Screenshot.</p>
 <blockquote class="imgur-embed-pub" lang="en" data-id="pDfcxDg"><a href="//imgur.com/pDfcxDg">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 <p>7.Finally write one command for run the code.<b> ./file name </b>Below the Screenshot.</p>
-![Screenshot from 2018-07-23 23-13-07.png](https://github.com/harunshimanto/Shell-programming-code-OS-lab-CSE-324/blob/master/Screenshot%20from%202018-07-23%2023-13-07.png)
+[Screenshot from 2018-07-23 23-13-07.png](https://github.com/harunshimanto/Shell-programming-code-OS-lab-CSE-324/blob/master/Screenshot%20from%202018-07-23%2023-13-07.png)
