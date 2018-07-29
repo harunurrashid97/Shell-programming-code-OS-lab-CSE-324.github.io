@@ -1,0 +1,13 @@
+read a
+if [ $a -ge 80 ]
+then 
+echo "Gread A+"
+elif [ $a -ge 70 ]
+then
+echo "Gread A-"
+elif [ $a -ge 65 ]
+then
+echo "Gread B+"
+else
+echo "Gread F"
+fi
