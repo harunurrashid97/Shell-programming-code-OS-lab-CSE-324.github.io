@@ -1,0 +1,11 @@
+#arr=(3 5 10)
+echo "Enter the value:"
+read arr
+for(( i=0;i<=2;++i))
+do
+sum=$((sum+arr[i]))
+done
+
+avg=$((sum/3))
+
+echo $avg
