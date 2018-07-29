@@ -1,0 +1,11 @@
+echo "Enter cost price:"
+read cp
+echo "Enter selling price:"
+read sp
+dif=`expr $sp - $cp`
+if (( $dif <0 ))
+then
+echo "Loss incurred $dif"
+else 
+echo "Profit made $dif"
+fi

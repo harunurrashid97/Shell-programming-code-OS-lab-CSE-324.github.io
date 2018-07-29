@@ -1,0 +1,8 @@
+echo "Enter your number:"
+read num
+read sum
+for(( c=1; c<=num; c++ ))
+do 
+sum=$((sum+c))
+done
+echo "Show the output: $sum"
